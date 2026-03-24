@@ -1,4 +1,8 @@
 #!/bin/sh
+
+echo $0
+echo $@
+
 MY_MESSAGE="Hello World"
 echo $MY_MESSAGE
 
